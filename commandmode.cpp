@@ -1,11 +1,3 @@
-/*
-** Roll Number: 2018201101
-	Name: Suchismith Roy
-
-*/
-
-
-
 
 
 #include "normalmode.h"
